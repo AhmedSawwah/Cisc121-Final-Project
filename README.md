@@ -2,6 +2,23 @@
 
 ## Demo
 Screenshots or GIFs of the app running with sample inputs.
+### Normal Case - Unsorted Array
+![Normal Case](screenshots/Screenshot1.png)
+
+### Already Sorted
+![Already Sorted](screenshots/Screenshot2.png)
+
+### Reverse Sorted Array
+![reverse sorted](screenshots/Screenshot3.png)
+
+### Duplicates Array
+![Duplicates Array(screenshots/Screenshot2.png)
+
+### Two Elements Array
+![Two Elements Array](screenshots/Screenshot3.png)
+
+### One Element
+![One Elemenet](screenshots/Screenshot3.png)
 
 ---
 
