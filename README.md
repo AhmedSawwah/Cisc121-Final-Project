@@ -3,7 +3,7 @@
 ## Demo
 Screenshots or GIFs of the app running with sample inputs.
 ### Normal Case - Unsorted Array
-![Normal Case](screenshots/Screenshot1.png)
+![Normal Case](testcase1.png)
 
 ### Already Sorted
 ![Already Sorted](screenshots/Screenshot2.png)
