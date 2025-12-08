@@ -12,7 +12,7 @@ Screenshots or GIFs of the app running with sample inputs.
 ![reverse sorted](screenshots/Screenshot3.png)
 
 ### Duplicates Array
-![Duplicates Array(screenshots/Screenshot2.png)
+![Duplicates Array](screenshots/Screenshot2.png)
 
 ### Two Elements Array
 ![Two Elements Array](screenshots/Screenshot3.png)
