@@ -6,7 +6,7 @@ Screenshots or GIFs of the app running with sample inputs.
 ![Normal Case](https://github.com/AhmedSawwah/Cisc121-Final-Project/blob/main/screenshots/Screenshot%202025-12-08%20165011.png?raw=true)
 
 ### Already Sorted
-![Already Sorted]()
+![Already Sorted](https://github.com/AhmedSawwah/Cisc121-Final-Project/blob/main/screenshots/Screenshot%202025-12-08%20165144.png?raw=true)
 
 ### Reverse Sorted Array
 ![reverse sorted]()
