@@ -27,25 +27,78 @@ Why did i choose bubblesort? Bubble Sort works so well that I chose it because i
 
 heres my huggingspace link: https://huggingface.co/spaces/AhmedSawwah/BubbleSortAlg
 
+heres the flowchart: 
+
 ### Decomposition
-- Take a list of integers
-- Compare adjacent elements
-- Swap if they are out of order
-- Repeat until the list is sorted
+The bubble sort algorithm breaks down into these smaller steps:
+
+Parse user input (comma-separated integers) into a list
+Iterate through the list multiple times (n-1 passes for n elements)
+In each pass, compare adjacent elements
+Swap elements if they are in the wrong order
+Track and record each comparison and swap
+Repeat until no swaps are needed (list is sorted)
+Display the step-by-step process and final result
 
 ### Pattern Recognition
-- Repeated comparisons between neighbouring values
-- Larger values "bubble" toward the end of the list
+The algorithm follows a repeating pattern:
+
+Compare: Check if current element > next element
+Swap: If true, exchange their positions
+Record: Capture the state after each swap
+Move: Advance to the next pair of adjacent elements
+Repeat: Continue until reaching the end, then start a new pass
+The largest unsorted element "bubbles up" to its correct position in each pass
 
 ### Abstraction
-- Only comparisons and swaps are shown
-- Internal loop counters are hidden from the user
+Details to SHOW the user:
+
+The input array
+Each comparison being made (highlighting which two elements)
+Each swap that occurs with the updated array state
+The final sorted array
+Visual indication of sorting progress
+
+Details to DISCARD (not shown):
+
+Loop counters and index variables
+Internal function calls
+Memory addresses
+Pass number details (unless you want to show which pass you're on)
+Efficiency metrics (time complexity calculations)
 
 ### Algorithm Design
-- Input: comma-separated list of integers
-- Processing: Bubble Sort algorithm
-- Output: step-by-step explanation and sorted list
+Input → Processing → Output Flow:
+Input (GUI):
 
-(Flowchart can be drawn using these steps.)
+User enters comma-separated integers in a text box (e.g., "5,3,8,1")
+Data type: String → converted to List of Integers
+
+Processing:
+
+Parse and validate input
+Execute bubble sort algorithm
+Capture each state change (comparison/swap) as a text description
+Store all steps in a list
+
+Output (GUI):
+
+Display sorting steps in a scrollable text area showing each swap
+Display the final sorted array in a separate output field
+User clicks "Run Bubble Sort" button to trigger the process
+
+GUI Structure:
+
+Input: Gradio Textbox
+Output 1: Gradio Textbox (multi-line) for step-by-step sorting process
+Output 2: Gradio Textbox for final sorted result
+Button: Triggers the sorting function
 
 ---
+
+### Author and Acknowledgment
+- Ahmed ElSawwah
+- Gradio library for the UI framework
+- Course Materials from Cisc121
+- Project Guidelines
+- Chatgpt 4 in commenting on the algorithm
