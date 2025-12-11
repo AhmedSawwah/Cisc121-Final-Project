@@ -9,16 +9,16 @@ Screenshots or GIFs of the app running with sample inputs.
 ![Already Sorted](https://github.com/AhmedSawwah/Cisc121-Final-Project/blob/main/screenshots/Screenshot%202025-12-08%20165144.png?raw=true)
 
 ### Reverse Sorted Array
-![reverse sorted]()
+![reverse sorted](https://github.com/AhmedSawwah/Cisc121-Final-Project/blob/main/screenshots/Screenshot%202025-12-08%20165217.png?raw=true)
 
 ### Duplicates Array
-![Duplicates Array]()
+![Duplicates Array](https://github.com/AhmedSawwah/Cisc121-Final-Project/blob/main/screenshots/Screenshot%202025-12-08%20165247.png?raw=true)
 
 ### Two Elements Array
-![Two Elements Array]()
+![Two Elements Array](https://github.com/AhmedSawwah/Cisc121-Final-Project/blob/main/screenshots/Screenshot%202025-12-08%20165348.png?raw=true)
 
 ### One Element
-![One Elemenet]()
+![One Elemenet](https://github.com/AhmedSawwah/Cisc121-Final-Project/blob/main/screenshots/Screenshot%202025-12-08%20165422.png?raw=true)
 
 ---
 
