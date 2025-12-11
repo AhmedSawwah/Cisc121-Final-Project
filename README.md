@@ -27,7 +27,7 @@ Why did i choose bubblesort? Bubble Sort works so well that I chose it because i
 
 heres my huggingspace link: https://huggingface.co/spaces/AhmedSawwah/BubbleSortAlg
 
-heres the flowchart: 
+heres the flowchart: ![flowchart](https://github.com/AhmedSawwah/Cisc121-Final-Project/blob/main/screenshots/Screenshot%202025-12-11%20214038.png?raw=true)
 
 ### Decomposition
 The bubble sort algorithm breaks down into these smaller steps:
