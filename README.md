@@ -23,6 +23,7 @@ Screenshots or GIFs of the app running with sample inputs.
 ---
 
 ## Problem Breakdown & Computational Thinking
+Why did i choose bubblesort? Bubble Sort works so well that I chose it because it is one of the easiest sorting algorithms I can start to implement and understand. It works in very simple logic: compare those adjacent elements, then swap the elements if they are not in the right order. That makes it perfect for describing basic sorts, comparisons, swaps, iterative passes through a list. Even though Bubble Sort is not efficient with extensive data set at first glance (due to its time complexity of n squared), it is frequently used in introductory programming exercises since the algorithm can be easily traced from one end and debugged and modified. And its simplicity ensures that it is a useful jumping-off point before you master anything similar to merge sort or quicksort.
 
 ### Decomposition
 - Take a list of integers
