@@ -3,7 +3,7 @@
 ## Demo
 Screenshots or GIFs of the app running with sample inputs.
 ### Normal Case - Unsorted Array
-![Normal Case]()
+![Normal Case](https://github.com/AhmedSawwah/Cisc121-Final-Project/blob/main/screenshots/Screenshot%202025-12-08%20165011.png?raw=true)
 
 ### Already Sorted
 ![Already Sorted]()
